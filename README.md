@@ -6,7 +6,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/albert-marrero?tab=repositories](https://github.com/albert-marrero?tab=repositories)
 - 📫 How to reach me **contact@albertmarrero.me**
 - ⚡ Fun fact **I enjoy playing board games**
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals:
     * Read 12 books
 
 ### Connect with me:
@@ -17,14 +17,14 @@
 ### Languages and Tools:
 [<img alt="albertmarrero.me" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
 [<img alt="albertmarrero.me" width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][git]
-[<img alt="albertmarrero.me" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][postman]
-[<img alt="albertmarrero.me" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
-[<img alt="albertmarrero.me" width="40px" src="./icons/visual-studio-code/vscode.svg" />][visual-studio-code]
+[<img alt="postman.com" width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />][postman]
+[<img alt="python.org" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img alt="code.visualstudio" width="40px" src="./icons/visual-studio-code/vscode.svg" />][visual-studio-code]
 
 ### Certifications:
-[<img alt="albertmarrero.me" width="175px" src=".\icons\aws-certified\aws-certified-cloud-practitioner.png" />][aws-certified-cloud-practitioner]
-[<img alt="albertmarrero.me" width="175px" src=".\icons\aws-certified\aws-certified-developer-associate.png" />][aws-certified-developer-associate]
-[<img alt="albertmarrero.me" width="175px" src=".\icons\aws-certified\aws-certified-solutions-architect-associate.png" />][aws-certified-solutions-architect-associate]
+[<img alt="aws-certified-cloud-practitioner" width="175px" src="./icons/aws-certified/aws-certified-cloud-practitioner.png" />][aws-certified-cloud-practitioner]
+[<img alt="aws-certified-developer-associate" width="175px" src="./icons/aws-certified/aws-certified-developer-associate.png" />][aws-certified-developer-associate]
+[<img alt="aws-certified-solutions-architect-associate" width="175px" src="./icons/aws-certified/aws-certified-solutions-architect-associate.png" />][aws-certified-solutions-architect-associate]
 
 [connect-with-me]: # (Connect with me List)
 [stack-overflow]: https://stackoverflow.com/users/9119769
