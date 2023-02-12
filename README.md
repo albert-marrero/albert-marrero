@@ -8,6 +8,9 @@
 - ⚡ Fun fact **I enjoy playing board games**
 - 🥅 2023 Goals:
     * Read 12 books
+        1. [The Librarian of Crooked Lane](https://www.goodreads.com/book/show/60054210-the-librarian-of-crooked-lane) - C.J. Archer ✔️
+        2. [The Vue](https://www.goodreads.com/book/show/19385238-the-vu) - Hannah Gray Gordon ⏳ 
+    * AWS Certified Developer - Associate Recertification
 
 ### Connect with me:
 
