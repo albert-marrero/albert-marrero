@@ -1,6 +1,6 @@
 # Hi, I'm Albert 👋
 
-## A passionate software engineer
+### A passionate software engineer
 
 - 🔭 I’m currently working on [Yu-Gi-Oh! Scraper](https://github.com/albert-marrero/Yu-Gi-Oh-Scraper)
 - 👨‍💻 All of my projects are available at [https://github.com/albert-marrero?tab=repositories](https://github.com/albert-marrero?tab=repositories)
@@ -29,19 +29,13 @@
 [<img alt="aws-certified-developer-associate" width="175px" src="./icons/aws-certified/aws-certified-developer-associate.png" />][aws-certified-developer-associate]
 [<img alt="aws-certified-solutions-architect-associate" width="175px" src="./icons/aws-certified/aws-certified-solutions-architect-associate.png" />][aws-certified-solutions-architect-associate]
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Albert-marrero&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Albert-marrero&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert-marrero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Albert-marrero&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Am) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/albert.marrero) 
 
 [connect-with-me]: # (Connect with me List)
 [stack-overflow]: https://stackoverflow.com/users/9119769
