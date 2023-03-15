@@ -9,7 +9,8 @@
 - 🥅 2023 Goals:
     * Read 12 books
         1. [The Librarian of Crooked Lane](https://www.goodreads.com/book/show/60054210-the-librarian-of-crooked-lane) - C.J. Archer ✔️
-        2. [The Vue](https://www.goodreads.com/book/show/19385238-the-vu) - Hannah Gray Gordon ⏳ 
+        2. [The Vue](https://www.goodreads.com/book/show/19385238-the-vu) - Hannah Gray Gordon ✔️
+        3. [Got Fight?: The 50 Zen Principles of Hand-to-Face Combat](https://www.goodreads.com/book/show/6670692) - Forrest Griffin, Erich Krauss ⏳
     * AWS Certified Developer - Associate Recertification
 
 ### Connect with me:
